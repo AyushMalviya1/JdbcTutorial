@@ -7,6 +7,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 
+// write a program to insert data into the table1 using prepared statement and take input from the user.
 public class Demo_4 {
     public static void main(String[] args) {
         try{
